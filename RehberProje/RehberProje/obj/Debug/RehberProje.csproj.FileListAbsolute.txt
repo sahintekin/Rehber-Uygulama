@@ -1,0 +1,11 @@
+C:\Users\ahmet\source\repos\RehberProje\RehberProje\bin\Debug\RehberProje.exe.config
+C:\Users\ahmet\source\repos\RehberProje\RehberProje\bin\Debug\RehberProje.exe
+C:\Users\ahmet\source\repos\RehberProje\RehberProje\bin\Debug\RehberProje.pdb
+C:\Users\ahmet\source\repos\RehberProje\RehberProje\obj\Debug\RehberProje.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\RehberProje\RehberProje\obj\Debug\RehberProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\source\repos\RehberProje\RehberProje\obj\Debug\RehberProje.Form1.resources
+C:\Users\ahmet\source\repos\RehberProje\RehberProje\obj\Debug\RehberProje.Properties.Resources.resources
+C:\Users\ahmet\source\repos\RehberProje\RehberProje\obj\Debug\RehberProje.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\RehberProje\RehberProje\obj\Debug\RehberProje.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\RehberProje\RehberProje\obj\Debug\RehberProje.exe
+C:\Users\ahmet\source\repos\RehberProje\RehberProje\obj\Debug\RehberProje.pdb
